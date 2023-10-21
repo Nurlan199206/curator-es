@@ -1,7 +1,9 @@
-** Software version**
+** Software version **
 
 ```- elasticsearch: 8.3.3```
+
 ```- curator: 8.0.9```
+
 ```- Ubuntu 22.04```
 
 
